@@ -13,8 +13,6 @@ import Camiseta5 from "./img/camiseta-5.jpg";
 import Camiseta6 from "./img/camiseta-6.jpg";
 import Camiseta7 from "./img/camiseta-7.jpg";
 import Camiseta8 from "./img/camiseta-8.jpg";
-
-
 import imgCabecalho from "./img/logo.png"
 
 
